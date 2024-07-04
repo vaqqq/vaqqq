@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Support me on: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2103OCW)
+
 <!--
 **vaqqq/vaqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
