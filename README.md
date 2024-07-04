@@ -1,6 +1,6 @@
 ## Hi I'm Vaq 👋
 
-## What I am currently working on - [![harmy](https://harmy.gg/HarmySVG.svg)](https://ko-fi.com/harmy)
+## What I am currently working on - [![harmy](https://harmy.gg/HarmySVG.svg)](https://harmy.gg/)
 
 ## Support me on: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2103OCW)
 
