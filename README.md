@@ -18,6 +18,6 @@ I love doing backend stuff :)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@Vaq/9e97cfa6-e3fe-4da8-88af-d88077a7398a.svg"></embed></figure>
 
-<!--END_SECTION:waka-->
+
